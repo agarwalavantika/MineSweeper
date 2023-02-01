@@ -1,1 +1,2 @@
 # MineSweeper
+Minesweeper game implemented in c++ from scratch which offers the users three different set of moves either to reveal the cell or to mark a cell which they think is a potential mine or to unmark a cell which they previously thought as a potential mine.  It also offers the users to restart the current game or to start a new game with a new difficulty or to exit the game. Shows mines count which indicates the number of mines the user have not found(according to the user).
